@@ -35,3 +35,9 @@ I started studying programming at the start of the COVID-19 pandemic, I went thr
 - [@anmedina-arg](https://github.com/anmedina-arg)
 - [@Estefi24](https://github.com/Estefi24)
 
+#### Project Description
+Davo Shoes is a E-commerce for selling shoes. You can search by name, filter by brands and categories, add products to your cart and buy them through Mercado Pago (payment gateway). You can Sign Up/In through Auth0 using email and password or with your Google account.
+
+#### My Role
+I was in charge of the initial boilerplate of the project, the repository creation as well as its maintenance (PR, Code Reviews, etc...). After that I helped with the creation of the DB models, API endpoints, I developed the authentication/authorization using Auth0, products reviews and user management
+
