@@ -27,3 +27,11 @@ I started studying programming at the start of the COVID-19 pandemic, I went thr
 ## My Projects
 
 ### Full Stack Web Developer | [Davo Shoes](https://henry-final-project.vercel.app) (E-commerce)
+#### Collaborators
+- [@gabrielweht](https://github.com/gabrielweht) 
+- [@Iverges](https://github.com/lrverges) 
+- [@Catasan](https://github.com/Catasan) 
+- [@alfonzomario](https://github.com/alfonzomario)
+- [@anmedina-arg](https://github.com/anmedina-arg)
+- [@Estefi24](https://github.com/Estefi24)
+
