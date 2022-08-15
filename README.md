@@ -2,7 +2,10 @@
 
 ## About Me
 
-I started studying programming at the start of the COVID-19 pandemic, I went through 2 years of self-learning until 2022 when I decided to start the SoyHenry's Full Stack Web Developer bootcamp. There I met some of the most talented, friendly and faithful colleagues that I have ever known.
+I started studying programming during the COVID-19 pandemic, after a life long interest in the area. I started with Python, from there I learned the basic web technologies (HTML, CSS and Javascript).
+I studied 2 years as a self-learner, in that time I learned React, Redux, Node, Express and Mongo. In 2022 I started the SoyHenry's Full Stack Web Developer bootcamp, there not only I got the chance to practice and develop further my tech skills (by learning SQL, PostgreSQL and Sequelize), but also I met some of the most talented, friendly and faithful colleagues I ever had.
+
+Programming is my passion, and I wish to keep learning it more and more each day!
 
 ### What I know
 - HTML
